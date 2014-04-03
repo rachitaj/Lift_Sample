@@ -1,0 +1,33 @@
+[debug] Getting compiler-interface from component compiler for Scala 2.10.0
+[debug] Other repositories:
+[debug] Default repositories:
+[debug] 	FileRepository(local,FileConfiguration(true,None),Patterns(ivyPatterns=List(${ivy.home}/local/[organisation]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)[revision]/[type]s/[artifact](-[classifier]).[ext]), artifactPatterns=List(${ivy.home}/local/[organisation]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)[revision]/[type]s/[artifact](-[classifier]).[ext]), isMavenCompatible=false))
+[debug] Other repositories:
+[debug] Default repositories:
+[debug] 	FileRepository(local,FileConfiguration(true,None),Patterns(ivyPatterns=List(${ivy.home}/local/[organisation]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)[revision]/[type]s/[artifact](-[classifier]).[ext]), artifactPatterns=List(${ivy.home}/local/[organisation]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)[revision]/[type]s/[artifact](-[classifier]).[ext]), isMavenCompatible=false))
+[info] 'compiler-interface' not yet compiled for Scala 2.10.0. Compiling...
+[debug] Plain interface to Scala compiler 2.10.0  with arguments: 
+[debug] 	-nowarn
+[debug] 	-d
+[debug] 	C:\Users\Rachita\AppData\Local\Temp\sbt_1f12be39
+[debug] 	-bootclasspath
+[debug] 	C:\Program Files\Java\jre6\lib\resources.jar;C:\Program Files\Java\jre6\lib\rt.jar;C:\Program Files\Java\jre6\lib\sunrsasign.jar;C:\Program Files\Java\jre6\lib\jsse.jar;C:\Program Files\Java\jre6\lib\jce.jar;C:\Program Files\Java\jre6\lib\charsets.jar;C:\Program Files\Java\jre6\lib\modules\jdk.boot.jar;C:\Program Files\Java\jre6\classes;C:\Users\Rakesh\.sbt\boot\scala-2.10.0\lib\scala-library.jar
+[debug] 	-classpath
+[debug] 	C:\Users\Rakesh\.sbt\boot\scala-2.9.2\org.scala-sbt\sbt\0.12.4\xsbti\interface-0.12.4.jar;C:\Users\Rakesh\.sbt\boot\scala-2.9.2\org.scala-sbt\sbt\0.12.4\compiler-interface-src\compiler-interface-src-0.12.4.jar;C:\Users\Rakesh\.sbt\boot\scala-2.10.0\lib\scala-compiler.jar;C:\Users\Rakesh\.sbt\boot\scala-2.10.0\lib\jansi.jar;C:\Users\Rakesh\.sbt\boot\scala-2.10.0\lib\jline.jar;C:\Users\Rakesh\.sbt\boot\scala-2.10.0\lib\scala-reflect.jar
+[debug] 	C:\Users\Rachita\AppData\Local\Temp\sbt_38d13367\API.scala
+[debug] 	C:\Users\Rachita\AppData\Local\Temp\sbt_38d13367\Analyzer.scala
+[debug] 	C:\Users\Rachita\AppData\Local\Temp\sbt_38d13367\Command.scala
+[debug] 	C:\Users\Rachita\AppData\Local\Temp\sbt_38d13367\CompilerInterface.scala
+[debug] 	C:\Users\Rachita\AppData\Local\Temp\sbt_38d13367\ConsoleInterface.scala
+[debug] 	C:\Users\Rachita\AppData\Local\Temp\sbt_38d13367\DelegatingReporter.scala
+[debug] 	C:\Users\Rachita\AppData\Local\Temp\sbt_38d13367\Log.scala
+[debug] 	C:\Users\Rachita\AppData\Local\Temp\sbt_38d13367\Message.scala
+[debug] 	C:\Users\Rachita\AppData\Local\Temp\sbt_38d13367\ScaladocInterface.scala
+[info]   Compilation completed in 21.585 s
+[debug] Other repositories:
+[debug] Default repositories:
+[debug] 	FileRepository(local,FileConfiguration(true,None),Patterns(ivyPatterns=List(${ivy.home}/local/[organisation]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)[revision]/[type]s/[artifact](-[classifier]).[ext]), artifactPatterns=List(${ivy.home}/local/[organisation]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)[revision]/[type]s/[artifact](-[classifier]).[ext]), isMavenCompatible=false))
+[debug] Getting compiler-interface from component compiler for Scala 2.10.0
+[debug] Other repositories:
+[debug] Default repositories:
+[debug] 	FileRepository(local,FileConfiguration(true,None),Patterns(ivyPatterns=List(${ivy.home}/local/[organisation]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)[revision]/[type]s/[artifact](-[classifier]).[ext]), artifactPatterns=List(${ivy.home}/local/[organisation]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)[revision]/[type]s/[artifact](-[classifier]).[ext]), isMavenCompatible=false))
