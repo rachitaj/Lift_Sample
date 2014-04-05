@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+    <title>Home</title>
+  </head>
+  <body class="lift:content_id=main">
+   
+    <script type='text/javascript' src='@routes.Assets.at("javascripts/index.min.js")'></script>
+    
+    <div class="container">
+        <ul id="bars"></ul>
+        <form id="barForm" method="post" action="/bars">
+            <input type="text" id="userName" >Name <br>
+            <input type="password" id="passwordName" >Password <br>
+            <button>Login</button> <button>Register</button>
+        </form>
+         
+<form>
+  <div class="footer-logos">
+    
+        <input type="checkbox" name="chk" id="chk" value=""/><label for="chk"><img src="/images/download.png" alt="" class="first" ></label>    
+        <input type="checkbox" name="chk" id="chk" value=""/><label for="chk"><img src="/images/download.png" alt="" class=""></label> 
+       <ul style="list-style-type:none; margin:0px; padding:0px">
+       <li><input type="checkbox" name="chk" id="chk" value=""/><label for="chk"><img src="/images/download.png" alt="" class=""></label> </li>
+        <li><input type="checkbox" name="chk" id="chk" value=""/><label for="chk"><img src="/images/download.png" alt="" class=""></label> </li>
+        <li><input type="checkbox" name="chk" id="chk" value=""/><label for="chk"><img src="/images/download.png" alt="" class=""></label> </li>
+        <li><input type="checkbox" name="chk" id="chk" value=""/><label for="chk"><img src="/images/download.png" alt="" class="last"></label> </li>     
+    </ul>
+      <br>  
+  </div>
+</form>
+      <br>  
+<form action="http://www.cs.tut.fi/cgi-bin/run/~jkorpela/echo.cgi" enctype="multipart/form-data" method="post">
+    <p> Please select an image:<br> 
+        <input type="file" name="datafile" size="40">
+    </p>
+    <div>
+        <input type="submit" value="Upload">
+    </div>
+</form>
+</div>
+
+}
+
+  </body>
+</html>
+
