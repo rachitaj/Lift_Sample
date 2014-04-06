@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 sbt
+=======
+container:start
+exit
+>>>>>>> b1cae6e71e6c03095fa602042048935883818994
 eclipse
